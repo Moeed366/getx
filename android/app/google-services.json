@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "810712620402",
+    "project_id": "getx-a01a2",
+    "storage_bucket": "getx-a01a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810712620402:android:fdd9922fcbf9c0007c11eb",
+        "android_client_info": {
+          "package_name": "com.mixtm.get"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUDV2-Ed-IZaZNSKEDzsm7gjXvgHNueQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810712620402:android:d22b822517447c967c11eb",
+        "android_client_info": {
+          "package_name": "com.mixtm.getx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUDV2-Ed-IZaZNSKEDzsm7gjXvgHNueQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
